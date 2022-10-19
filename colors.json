@@ -2354,5 +2354,9 @@
     "xBase": {
         "color": "#403a40",
         "url": "https://github.com/trending?l=xBase"
+    },
+    "Cadence": {
+        "color": "#403a40",
+        "url": "https://github.com/trending?l=cadence"
     }
 }
